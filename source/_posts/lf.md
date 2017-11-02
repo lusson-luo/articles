@@ -1,8 +1,9 @@
+---
 title: '什么是浪费'
 date: 2017/10/13 20:46:25
 tags: 
 - '随心集'
-categories:
+  categories:
 - '随笔'
 ---
 # 什么是浪费
